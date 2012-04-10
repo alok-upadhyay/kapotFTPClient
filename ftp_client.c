@@ -1,4 +1,4 @@
-/* Title	:	A minimal FTP client for the AlokFTP Server			*/
+/* Title	:	A minimal FTP client for the kapotFTP Server			*/
 /* Source	:	ftp_client.c 							*/	
 /* Date		:	09/03/2012	   						*/
 /* Author	:	Alok Upadhyay	   						*/
